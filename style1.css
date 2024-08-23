@@ -1,0 +1,19 @@
+*{
+    background-color: #000030;
+    margin: 10px 10px;
+}
+
+p {
+    color: white;
+    font-size: 0.7rem;
+}
+
+strong {
+    color: gold;
+    text-decoration: underline;
+}
+
+span {
+    color: gold;
+    font-style: italic;
+}

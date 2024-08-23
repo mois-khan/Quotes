@@ -1,0 +1,281 @@
+body {
+    font-size: 15pt;
+    background-color: #000030;
+    color: white;
+}
+
+.title {
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+    font-size: 4rem;
+    margin-bottom: 0px;
+}
+
+.main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* First Quote*/
+
+.div1 {
+    width: 20%;
+    margin-left: 10%;
+    margin-top: 30px;
+}
+
+.img1 {
+    width: 90%;
+    margin-left: 5%;
+    border: 1px solid white;
+    
+}
+
+.h21 {
+    text-align: center;
+}
+
+.h21 {
+    font-family: "Libre Baskerville ", serif;
+    font-weight: 300;
+    font-size: 0.88rem;
+
+}
+
+.p1 {
+    text-align: center;
+    font-size: 0.7rem;
+    margin-top: -6px;
+}
+
+.dsc1 {
+    text-align: center;
+    font-size: 0.7rem;
+    margin-top: 30px;
+    color: skyblue;
+}
+
+
+/* Second Quote*/
+
+.div2 {
+    width: 20%;
+    margin-left: 10%;
+    margin-top: 30px;
+}
+
+.img2 {
+    width: 90%;
+    margin-left: 5%;
+    border: 1px solid white;
+    
+}
+
+.h22 {
+    text-align: center;
+}
+
+.h22 {
+    font-family: "Libre Baskerville ", serif;
+    font-weight: 300;
+    font-size: 1.2rem;
+
+}
+
+.p2 {
+    text-align: center;
+    font-size: 0.7rem;
+    margin-top: -10px;
+}
+
+/* Third Quote*/
+
+.div3 {
+    width: 20%;
+    margin-left: 10%;
+    margin-top: 30px;
+}
+
+.img3 {
+    width: 90%;
+    margin-left: 5%;
+    border: 1px solid white;
+    
+}
+
+.h23 {
+    text-align: center;
+}
+
+.h23 {
+    font-family: "Libre Baskerville ", serif;
+    font-weight: 300;
+    font-size: 1.2rem;
+
+}
+
+.p3 {
+    text-align: center;
+    font-size: 0.7rem;
+    margin-top: -10px;
+}
+
+/* Fourth Quote*/
+
+.div4 {
+    width: 20%;
+    margin-left: 10%;
+    margin-top: 30px;
+}
+
+.img4 {
+    width: 90%;
+    margin-left: 5%;
+    border: 1px solid white;
+    
+}
+
+.h24 {
+    text-align: center;
+}
+
+.h24 {
+    font-family: "Libre Baskerville ", serif;
+    font-weight: 300;
+    font-size: 1.2rem;
+
+}
+
+.p4 {
+    text-align: center;
+    font-size: 0.7rem;
+    margin-top: -10px;
+}
+
+/* Fifth Quote*/
+
+.div5 {
+    width: 20%;
+    margin-left: 10%;
+    margin-top: 30px;
+}
+
+.img5 {
+    width: 90%;
+    margin-left: 5%;
+    border: 1px solid white;
+    
+}
+
+.h25 {
+    text-align: center;
+}
+
+.h25 {
+    font-family: "Libre Baskerville ", serif;
+    font-weight: 300;
+    font-size: 1.2rem;
+
+}
+
+.p5 {
+    text-align: center;
+    font-size: 0.7rem;
+    margin-top: -10px;
+}
+
+/* Sixth Quote*/
+
+.div6 {
+    width: 20%;
+    margin-left: 10%;
+    margin-top: 30px;
+}
+
+.img6 {
+    width: 90%;
+    margin-left: 5%;
+    border: 1px solid white;
+    
+}
+
+.h26 {
+    text-align: center;
+}
+
+.h26 {
+    font-family: "Libre Baskerville ", serif;
+    font-weight: 300;
+    font-size: 1.2rem;
+
+}
+
+.p6 {
+    text-align: center;
+    font-size: 0.7rem;
+    margin-top: -10px;
+}
+
+/* Seventh Quote*/
+
+.div7 {
+    width: 20%;
+    margin-left: 10%;
+    margin-top: 30px;
+}
+
+.img7 {
+    width: 90%;
+    margin-left: 5%;
+    border: 1px solid white;
+    
+}
+
+.h27 {
+    text-align: center;
+}
+
+.h27 {
+    font-family: "Libre Baskerville ", serif;
+    font-weight: 300;
+    font-size: 1.2rem;
+
+}
+
+.p7 {
+    text-align: center;
+    font-size: 0.7rem;
+    margin-top: -10px;
+}
+
+/* Eighth Quote*/
+
+.div8 {
+    width: 20%;
+    margin-left: 10%;
+    margin-top: 30px;
+}
+
+.img8 {
+    width: 90%;
+    margin-left: 5%;
+    border: 1px solid white;
+    
+}
+
+.h28 {
+    text-align: center;
+}
+
+.h28 {
+    font-family: "Libre Baskerville ", serif;
+    font-weight: 300;
+    font-size: 1rem;
+
+}
+
+.p8 {
+    text-align: center;
+    font-size: 0.7rem;
+    margin-top: -10px;
+}
