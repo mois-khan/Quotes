@@ -1,10 +1,11 @@
- *{
+body {
     font-size: 15pt;
     background-color: #000030;
-    
+    color: white;
 }
 
 .title {
+    color: yellow;
     display: block;
     font-family: "Libre Baskerville", serif;
     text-align: center;
@@ -33,12 +34,16 @@
     margin-top: 30px;
 }
 
+.divc {
+    background-color: white;
+    padding: 2%;
+}
+
 .img1  {
-    margin-bottom: 0%;
-    width: 90%;
-    margin-left: 5%;
-    border: 1px solid white;
-    
+    width: 100%;
+    margin-top: 1%;
+    border-radius: 10px 10px 0px 0px;
+
 }
 
 .h21 {
@@ -46,11 +51,11 @@
 }
 
 .h21 {
+    margin: 0%;
     margin-top: 0px;
     font-family: "Libre Baskerville ", serif;
     font-weight: 900;
     font-size: 0.88rem;
-    background-color: white;
     color: black;
 }
 
@@ -59,6 +64,7 @@
     text-align: center;
     font-size: 0.7rem;
     margin-top: ;
+    color: white;
 }
 
 .dsc1 {
@@ -306,17 +312,24 @@ footer {
         display: block;
     }
     
-    .title {
-        font-size: 2.2rem;
+    .head {
         width: 100%;
         position: fixed;
+        left: 0%;
         top: 0%;
-        margin-top: 0%;
+        padding: 1%;
+        margin: 0%;
+        color: yellow;
         background-color: #000030;
+    }
+
+    .title {
+        margin: 0%;
+        font-size: 2.2rem;
     }
     
     .mk {
-        display: none;
+    margin-bottom: 0%;
     text-align: right;
     margin-right: 10%;
     font-size: 0.8rem;
@@ -326,15 +339,23 @@ footer {
     .div1  {
     width: 100%;
     margin-left: 0%;
-    margin-top: 30px;
            }
+    
+    .div11 {
+    margin-top: 22%;
+    }
+         
+    .divc {
+        padding: 1%;
+    }     
          
     .img1 {
-    margin-bottom: 0px;
-    width: 96%;
-    margin-left: 2%;
-    border: 1px solid white;
+    margin-top: 0%;
+    width: 100%;
+    margin-left: 0%;
     }
+    
+    
     
     .p1 {
         width: 90%;
